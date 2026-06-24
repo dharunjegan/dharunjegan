@@ -10,7 +10,7 @@
     <li>🌱 I'm currently learning & building with MERN, Angular, and exploring Blockchain</li>
     <li>🏢 Engineering at <b>V.S.B. Engineering College</b></li>
     <li>💼 Previously interned with <b>Infosys Springboard</b> & <b>We Touch Technologies</b></li>
-    <li>⚡ Fun fact: I earned a Gold Medal in NPTEL Programming in Java!</li>
+    <li>⚡ I earned a Gold Medal in NPTEL Programming in Java!</li>
   </ul>
 
   <h3>Social Presence</h3>
