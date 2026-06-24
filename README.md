@@ -25,10 +25,6 @@
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
   </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=dharunjegan&label=Views&color=red&style=flat-square" alt="Views" />
-  </p>
 </div>
 
 <br clear="both">
