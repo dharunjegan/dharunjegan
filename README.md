@@ -1,9 +1,9 @@
 <div align="left">
   <img align="right" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coder.gif" width="400" alt="Developer Illustration">
 
-  <h1>Hi there 👋 It's me Dharun</h1>
+  <h1>Hi there 👋 It's me J.DHARUN REDDY(JDR)</h1>
   
-  <p>Full Stack Developer | B.E. CSE '27 @ V.S.B. Engineering College</p>
+  <p>Certified MERN Stack & Python Developer | B.E. CSE '27 @ V.S.B. Engineering College</p>
 
   <ul>
     <li>🔭 Here's my <a href="https://jdr-portfolio.netlify.app/">portfolio</a></li>
@@ -15,15 +15,19 @@
 
   <h3>Social Presence</h3>
   <p>
-    <a href="https://www.linkedin.com/in/dharun-reddy-jeganathan-046101311">
+    <a href="https://www.linkedin.com/in/dharun-reddy-jeganathan-046101311" target="_blank">
       <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://leetcode.com/u/Dharun_Reddy_J/">
+    <a href="https://leetcode.com/u/Dharun_Reddy_J/" target="_blank">
       <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
     </a>
-    <a href="mailto:thejdr2006@gmail.com">
+    <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=thejdr2006@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=dharunjegan&label=Views&color=red&style=flat-square" alt="Views" />
   </p>
 </div>
 
@@ -43,6 +47,14 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,aws,vercel,opencv,tensorflow&perline=15" alt="My Tools" />
   </a>
+</p>
+
+### 💻 Workspace Spec
+
+<p align="left">
+  <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
+  <img src="https://img.shields.io/badge/AMD-RYZEN_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD">
 </p>
 
 <br>
