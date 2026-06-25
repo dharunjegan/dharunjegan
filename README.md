@@ -1,7 +1,7 @@
 <div align="left">
   <img align="right" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coder.gif" width="400" alt="Developer Illustration">
 
-  <h1>Hi there 👋 It's me J.DHARUN REDDY(JDR)</h1>
+  <h1>Hi there 👋 It's me J.DHARUN REDDY (JDR) </h1>
   
   <p>Certified MERN Stack & Python Developer | B.E. CSE '27 @ V.S.B. Engineering College</p>
 
@@ -24,10 +24,6 @@
     <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=thejdr2006@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-  </p>
-  
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=dharunjegan&label=Views&color=red&style=flat-square" alt="Views" />
   </p>
 </div>
 
