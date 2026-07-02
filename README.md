@@ -105,15 +105,22 @@
 ### 🏆 Certifications & Education
 
 **Certifications:**
+
 - **Oracle Certifications**: Data Science Professional, AI Foundations Associate, Generative AI Professional
-- **NPTEL Certifications**: Programming in Java (Elite + Gold Medal, 96% - IIT Kharagpur), Cloud Computing (Elite - IIT Kharagpur), Big Data Computing (IIT Kanpur)
+
+- **NPTEL Certifications**: Programming in Java (Elite + Gold Medal, 96% - IIT Kharagpur),
+- Cloud Computing (Elite - IIT Kharagpur),
+- Big Data Computing (IIT Kanpur).
+
 - **Infosys Certifications**: Java, Python, Angular
+
 - **SDLC Program**: MERN Stack Developer Course & Python Developer Course
+
 - **AWS Educate Certification**: Cloud fundamentals and AWS core services
 
 **Education:**
 - **Bachelor of Engineering - Computer Science and Engineering** (2023 - 2027)
-  - VSB College of Engineering, Karur | CGPA: 8.26/10 (up to 5th Semester)
+  - VSB College of Engineering, Karur | CGPA: 8.26/10 (up to 6th Semester)
 
 **Achievements:**
 - **1st Prize**: Code Sprint 2k25 Hackathon, V.S.B. Engineering College, Karur (Feb 22-23, 2025)
