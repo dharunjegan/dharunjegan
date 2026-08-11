@@ -35,7 +35,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,c,react,nodejs,express,mongodb,mysql,tailwind&perline=11" alt="Programming Languages and Technologies" />
+    <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp,react,nodejs,express,mongodb,mysql,tailwind&perline=11" alt="Programming Languages and Technologies" />
   </a>
 </p>
 
