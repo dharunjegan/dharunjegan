@@ -31,9 +31,19 @@
 
 ### I code in
 
+### 💻 I Code In
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,java,py,c,cpp,react,angular,nextjs,html,css,tailwind,redux,nodejs,express,mongodb,mysql&perline=15" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,java,py,c,react,nodejs,express,mongodb,mysql,tailwind&perline=11" alt="Programming Languages and Technologies" />
+  </a>
+</p>
+
+### 🚀 MERN Stack
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack" />
   </a>
 </p>
 
