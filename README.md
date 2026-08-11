@@ -51,7 +51,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv" alt="Python, TensorFlow and OpenCV" />
+  </a>
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
   </a>
 </p>
 
