@@ -39,11 +39,19 @@
   </a>
 </p>
 
-### 🚀 MERN Stack
+### 🚀 Certified MERN Stack Developer
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack" />
+  </a>
+</p>
+
+### 🐍 Certified Python Developer
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" />
   </a>
 </p>
 
