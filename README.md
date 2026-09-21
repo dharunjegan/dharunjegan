@@ -1,3 +1,21 @@
+<!-- ==================== AVENGERS THOR HEADER ==================== -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=J.%20DHARUN%20REDDY%20%7C%20JDR&fontColor=7DF9FF&fontSize=42&fontAlignY=38&desc=CODE%20WITH%20THE%20POWER%20OF%20THUNDER&descAlignY=60&descSize=17&animation=fadeIn" alt="J. Dharun Reddy Thor Theme Banner">
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=3000&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=%E2%9A%A1+Certified+MERN+Stack+Developer;%F0%9F%94%A8+Certified+Python+Developer;%E2%9A%A1+Java+%7C+Python+%7C+Full+Stack;%F0%9F%9B%A1%EF%B8%8F+Building+Software+Worthy+of+Mjolnir" alt="Thor Themed Typing Animation">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/AVENGERS-INITIATIVE-071A2B?style=for-the-badge&logo=marvel&logoColor=00E5FF" alt="Avengers Initiative">
+  <img src="https://img.shields.io/badge/POWER-THUNDER-071A2B?style=for-the-badge&logo=lightning&logoColor=00E5FF" alt="Power Thunder">
+  <img src="https://img.shields.io/badge/STATUS-WORTHY-071A2B?style=for-the-badge&logo=github&logoColor=00E5FF" alt="Status Worthy">
+</div>
+
+<br>
+
+<!-- ==================== PROFILE INTRODUCTION ==================== -->
+
 <div align="left">
   <img align="right" src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/coder.gif" width="400" alt="Developer Illustration">
 
@@ -16,18 +34,27 @@
   <h3>Social Presence</h3>
   <p>
     <a href="https://www.linkedin.com/in/dharun-reddy-jeganathan-046101311" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+      <img src="https://img.shields.io/badge/LINKEDIN-071A2B?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/u/Dharun_Reddy_J/" target="_blank">
-      <img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+      <img src="https://img.shields.io/badge/LEETCODE-071A2B?style=for-the-badge&logo=leetcode&logoColor=00E5FF" alt="LeetCode">
     </a>
     <a href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=thejdr2006@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/GMAIL-071A2B?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Gmail">
     </a>
   </p>
 </div>
 
 <br clear="both">
+
+<!-- ==================== THOR LIGHTNING DIVIDER ==================== -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="Cyan Lightning Divider">
+  <h2>⚡ 🔨 ⚡</h2>
+</div>
+
+<!-- ==================== TECHNICAL ARSENAL ==================== -->
 
 ### I code in
 
@@ -35,7 +62,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp,react,nodejs,express,mongodb,mysql,tailwind&perline=11" alt="Programming Languages and Technologies" />
+    <img src="https://skillicons.dev/icons?i=js,java,py,c,cpp,react,nodejs,express,mongodb,mysql,tailwind&perline=11&theme=dark" alt="Programming Languages and Technologies" />
   </a>
 </p>
 
@@ -43,7 +70,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs" alt="MERN Stack" />
+    <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="MERN Stack" />
   </a>
 </p>
 
@@ -51,7 +78,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv" alt="Python, TensorFlow and OpenCV" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&theme=dark" alt="Python, TensorFlow and OpenCV" />
   </a>
 </p>
 
@@ -59,7 +86,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL and MongoDB" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="MySQL and MongoDB" />
   </a>
 </p>
 
@@ -67,30 +94,46 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,aws,vercel,opencv,tensorflow&perline=15" alt="My Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,aws,vercel,opencv,tensorflow&perline=15&theme=dark" alt="My Tools" />
   </a>
 </p>
 
 ### 💻 Workspace Spec
 
 <p align="left">
-  <img src="https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="Nvidia">
-  <img src="https://img.shields.io/badge/AMD-RYZEN_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white" alt="AMD">
+  <img src="https://img.shields.io/badge/WINDOWS-071A2B?style=for-the-badge&logo=windows&logoColor=00E5FF" alt="Windows">
+  <img src="https://img.shields.io/badge/NVIDIA-GTX_1650-071A2B?style=for-the-badge&logo=nvidia&logoColor=00E5FF" alt="Nvidia">
+  <img src="https://img.shields.io/badge/AMD-RYZEN_5_4600H-071A2B?style=for-the-badge&logo=amd&logoColor=00E5FF" alt="AMD">
 </p>
 
 <br>
 
+<!-- ==================== POWER LEVELS ==================== -->
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dharunjegan&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Dharun's GitHub Stats" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="Cyan Lightning Divider">
+
+  <h2>⚡ 🔨 ⚡</h2>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=dharunjegan&show_icons=true&hide_border=true&title_color=00E5FF&icon_color=7DF9FF&text_color=FFFFFF&bg_color=071A2B&ring_color=00E5FF" alt="Dharun's GitHub Stats" />
+
   <br><br>
-  <img src="https://leetcard.jacoblin.cool/Dharun_Reddy_J?theme=dark&font=baloo&ext=activity" alt="Dharun's LeetCode Stats" />
+
+  <img src="https://leetcard.jacoblin.cool/Dharun_Reddy_J?theme=dark&font=baloo&ext=activity&border=0&radius=10" alt="Dharun's LeetCode Stats" />
+
   <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharunjegan&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Dharun's Contribution Graph" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharunjegan&bg_color=071A2B&color=00E5FF&line=00E5FF&point=FFFFFF&area=true&area_color=006D8F&hide_border=true" alt="Dharun's Contribution Graph" />
 </div>
 
 <br>
-<hr>
+
+<!-- ==================== PROFESSIONAL EXPERIENCE ==================== -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="Cyan Lightning Divider">
+  <h2>⚡ 🔨 ⚡</h2>
+</div>
 
 ### 💼 Professional Experience
 
@@ -116,7 +159,13 @@
 - Developed 5+ responsive websites using HTML5, CSS3, and JavaScript with cross-browser compatibility.
 
 <br>
-<hr>
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="Cyan Lightning Divider">
+  <h2>⚡ 🔨 ⚡</h2>
+</div>
 
 ### 🚀 Featured Projects
 
@@ -126,7 +175,13 @@
 - **Weather Information System**: API-based weather data retrieval with Java backend and frontend display, handling real-time data parsing and UI rendering. *(Java, API Integration)*
 
 <br>
-<hr>
+
+<!-- ==================== CERTIFICATIONS AND EDUCATION ==================== -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="Cyan Lightning Divider">
+  <h2>⚡ 🔨 ⚡</h2>
+</div>
 
 ### 🏆 Certifications & Education
 
@@ -151,3 +206,23 @@
 **Achievements:**
 - **1st Prize**: Code Sprint 2k25 Hackathon, V.S.B. Engineering College, Karur (Feb 22-23, 2025)
 - Completed 6 Industry Internships across Full Stack, Python, and Blockchain during B.E. program.
+
+<!-- ==================== AVENGERS THOR FOOTER ==================== -->
+
+<br>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=00E5FF" alt="Cyan Lightning Divider">
+
+  <br>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=%E2%9A%A1+CODE.+BUILD.+LEARN.+REPEAT.;%F0%9F%94%A8+WORTHY+CODE+IS+FORGED%2C+NOT+FOUND.;%E2%9A%A1+THE+POWER+OF+THUNDER+MEETS+THE+POWER+OF+CODE." alt="Thor Footer Animation">
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=dharunjegan&label=PROFILE+VISITORS&color=00E5FF&style=for-the-badge" alt="Profile Visitors">
+
+  <br><br>
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&customColorList=12,20,24" alt="Thor Theme Footer">
+</div>
